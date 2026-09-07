@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="Automation execution platform">
+  <rect width="160" height="160" rx="28" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g stroke="#58a6ff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="30" y="34" width="100" height="24" rx="7"/>
+    <rect x="30" y="68" width="100" height="24" rx="7"/>
+    <rect x="30" y="102" width="100" height="24" rx="7"/>
+  </g>
+  <g fill="#3fb950">
+    <circle cx="45" cy="46" r="5"/>
+    <circle cx="45" cy="80" r="5"/>
+  </g>
+  <circle cx="45" cy="114" r="5" fill="#d29922"/>
+  <g stroke="#7c5cff" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M112 46 l0 0"/>
+  </g>
+  <path d="M104 74 l16 6 -16 6 z" fill="#7c5cff"/>
+</svg>
